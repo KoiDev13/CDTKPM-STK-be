@@ -1,1 +1,0 @@
-# CDTKPMNC-STK-BE
